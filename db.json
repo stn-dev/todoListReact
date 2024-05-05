@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "ee42",
+      "name": "raf",
+      "verify": false
+    },
+    {
+      "id": "e0e8",
+      "name": "mario",
+      "verify": false
+    }
+  ]
+}
